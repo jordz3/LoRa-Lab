@@ -73,7 +73,7 @@ C:\Users\<YOUR_USERNAME>\Documents\Arduino\libraries
 ```
 cd C:\Users\<YOUR_USERNAME>\Documents\Arduino
 
-git clone git@github.com:jordz3/MPE-LoRa.git
+git clone git@github.com:jordz3/LoRa-Lab.git
 ```
 2. Copy the my_library folder to the Arduino `libraries` folder.
 ```
