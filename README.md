@@ -1,4 +1,4 @@
-# MPE-LoRa
+# LoRa-Lab
 A UWA Master's of Professional Engineering (MPE) Thesis Project.
 
 A LoRa toolkit for creating and recreating experiments with simple configuration.
@@ -94,11 +94,11 @@ C:\Users\<YOUR_USERNAME>\Documents\Arduino\libraries\My_Library
 
 5. Navigate to the LoRa_Tool folder
 ```
-~\MPE LoRa\LoRa_Tool
+~\LoRa-Lab\LoRa_Tool
 ```
 6. Navigate to the `Receiver` folder and open `Receiver.ino` with the Arduino IDE.
 ```
-~\MPE LoRa\LoRa_Tool\Receiver\Receiver.ino
+~\LoRa-Lab\LoRa_Tool\Receiver\Receiver.ino
 ```
 7. Select `Tools` from the toolbar the top.
 
