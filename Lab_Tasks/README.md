@@ -18,7 +18,7 @@ Before the lab you should review the lecture material and papers on LoRa from `w
 
 6. Modify the Arduino code to enable you to test several different LoRa parameter settings. Remember that if you use different Spreading Factors, and a reasonably low data rate, then different groups should not interfere, so you can use the central channel frequency.
 
-7. Each TTGO T Beam should be paired with a Laptop/Computer via USB cable for ease of changing of parameters. Please see the [README.md](/LoRa-Lab/Lab_Tasks/README.md) for logging instructions.
+7. Each TTGO T Beam should be paired with a Laptop/Computer via USB cable for ease of changing of parameters. Please read the other [README.md](/LoRa-Lab/Lab_Tasks/README.md) for logging instructions.
 
 8. Record the RSSI and SNR, along with the LoRa parameters used and details of the channel for the setting(s) you measure. 
 
