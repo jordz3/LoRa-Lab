@@ -1,11 +1,16 @@
-# LoRa-Lab
-A UWA Master's of Professional Engineering (MPE) Thesis Project.
+# LoRa-Lab Set-Up Instructions
 
-A LoRa toolkit for creating and recreating experiments with simple configuration.
+The aim of this lab is to explore the behaviour of wireless channels and LoRa physical parameters in an experimental setting using TTGO T-beams.
 
-To setup a LoRa parameter configuration to test, edit the `my_library.cpp` file as needed. 
+The software for this lab was developed as part of a UWA Master's of Professional Engineering (MPE) Thesis Project.
 
-## Prerequisites
+The software is a LoRa toolkit for creating and recreating experiments with simple configuration.
+
+To setup an experimental LoRa parameter configuration to test, edit the `my_library.cpp` file as needed. 
+
+## Lab Set-Up
+
+The following software tools are be required for this lab.
 
 ### Arduino IDE
 Download the Arduino IDE software via:
@@ -17,7 +22,7 @@ This will be used for analysis after experiments have been conducted.
 
 If you have a local deployment of Jupyter Notebook, skip this step.
 
-Navigate to: https://jupyter.org/try and select `Try Classic Notebook`
+Navigate to: https://jupyter.org/try and select `Try JupyterLab`
 
 **Creating a new Python 3 Notebook**
 
@@ -66,7 +71,7 @@ git clone https://github.com/lewisxhe/AXP202X_Library.git
 C:\Users\<YOUR_USERNAME>\Documents\Arduino\libraries
 ```
 
-## Installation of Repository
+## Installation of the LoRa Toolkit Repository
 
 1. Clone the repository to your desired location
    **NOTE: For the purposes of this GitHub we will be installing to the `Arduino` folder.**
@@ -111,3 +116,10 @@ C:\Users\<YOUR_USERNAME>\Documents\Arduino\libraries\My_Library
 9. Click the `Compile` button.
 
 10. Repeat "Steps 2 to Steps 6 with `Sender` and `Sender.ino`
+
+## Lab Experiments
+
+Now that you have the software environment running go to the LoRa lab instructions to complete some experiments.
+```
+~\LoRa-Lab\Lab_Tasks
+```
