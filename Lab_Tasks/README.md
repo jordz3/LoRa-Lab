@@ -24,11 +24,12 @@ Before the lab you should review the lecture material and papers on LoRa from `w
 
 9. Record all relevant parameters you can think of.
 
-10. Write a short lab report documenting the results of your experiments.
+10. Using the provided Jupyter notebook as a template, write a short lab report on the results of your experiments.  Add comments to the notebook to:
 
     Describe your sensor network set up: the equipment used and your node positions.
     Describe your channel and the LoRa setting(s) you experimented with.
     Describe the RSSI and SNR values you observed. How much did these values vary? What do your results tell you about the communication channel.
     Describe any other things that might have affected your experiment results. Record as many relevant parameters as you can: for example
 
-11. When you have completed your lab report, upload it to the github repository. Your report should be a single file in pdf format. Labs do not count towards your assessed marks but I will provide formative feedback on your lab reports and will be greatly appreciated. Submissions for the assessed project will be in a similar format.
+11. When you have completed your lab report, upload your dataset (and jupyter notebook if you wish) to ms-teams area for this lab.  
+12. Please also complete the short survey (in ms-teams) on your experience with this lab to help us to improve this toolkit.
