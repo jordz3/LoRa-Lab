@@ -1,3 +1,10 @@
+# Acknowledgements
+
+The LoRa Library this module has been based of was created by Sandeep Mistry at: https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
+
+This project uses code that is MIT licensed located at https://github.com/sandeepmistry/arduino-LoRa/blob/master/LICENSE.
+
+
 # LoRa-Lab Set-Up Instructions
 
 The aim of this lab is to explore the behaviour of wireless channels and LoRa physical parameters in an experimental setting using TTGO T-beams.
@@ -8,7 +15,8 @@ The software is a LoRa toolkit for creating and recreating experiments with simp
 
 To setup an experimental LoRa parameter configuration to test, edit the `my_library.cpp` file as needed. 
 
-The LoRa Library this module has been based of is: https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
+
+
 Please see the API.md for values each variable can take.
 
 ## Lab Set-Up
