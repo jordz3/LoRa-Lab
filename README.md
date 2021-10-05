@@ -122,7 +122,7 @@ C:\Users\<YOUR_USERNAME>\Documents\Arduino\libraries\My_Library
 
 ## Lab Experiments
 
-Now that you have the software environment running go to the LoRa lab instructions to complete some experiments.
+Now that you have the software environment running go to the LoRa [Lab-Tasks](/Lab-Tasks/README.md) instructions to complete some experiments.
 ```
 ~\LoRa-Lab\Lab_Tasks
 ```
