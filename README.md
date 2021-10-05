@@ -35,6 +35,8 @@ If you have a local deployment of Jupyter Notebook, skip this step.
 
 Navigate to: https://jupyter.org/try and select `Try JupyterLab`
 
+Alternatively read the Log_Files [README.md](/Log_Files/README.md) for Google Colab use.
+
 **Creating a new Python 3 Notebook**
 
 `File` -> `New Notebook` -> `Python 3`
