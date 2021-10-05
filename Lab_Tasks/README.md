@@ -8,7 +8,7 @@ Before the lab you should review the lecture material and papers on LoRa.
 ## Lab Tasks
 1. Install the Github Repository as stated in the [README.md](/README.md).
 
-2. Set up TTGO sender-receiver pair following the provided instructions. Set up a wireless channel link by separating your sender and receiver nodes and collect the data from one round of the default experimental settings.  Each TTGO T Beam should be paired with a Laptop/Computer via USB cable for ease of changing of parameters. Please read the other [README.md](/LoRa-Lab/Lab_Tasks/README.md) for logging instructions.
+2. Set up TTGO sender-receiver pair following the provided instructions. Set up a wireless channel link by separating your sender and receiver nodes and collect the data from one round of the default experimental settings.  Each TTGO T Beam should be paired with a Laptop/Computer via USB cable for ease of changing of parameters. Please read the other [README.md](/Lab_Tasks/README.md) for logging instructions.
 
 3. Record the RSSI and SNR, along with the LoRa parameters used and details of the channel for the setting(s) you measure.  Check your results using the provided Jupyter notebook.
 
