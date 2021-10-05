@@ -117,7 +117,18 @@ C:\Users\<YOUR_USERNAME>\Documents\Arduino\libraries\My_Library
 
 10. Repeat "Steps 2 to Steps 6 with `Sender` and `Sender.ino`
 
-*If you are able to use two laptops, it is advised to set up a Receiver paired up with a Laptop and a Sender paired up with a Laptop to reduce time waiting and ability to change parameters quickly and simultaneously* 
+11. At the end of compilation, the console would exit with 
+```
+"Leaving...
+Hard resetting via RTS pin...
+```
+This is not an error, the ESP has loaded the data and rebooting to run the code and is ready.
+
+12. **PLEASE NOTE THE GPS MODULE REQUIRES ~ 5-10 MINUTES TO INITIALISE AFTER CODE HAS BEEN UPLOADED.** Run a dummy or preloaded experiment first until GPS values are being outputted in the console/serial monitor before conducting **YOUR** experiments. The GPS module will also **NOT WORK INDOORS**.
+
+RUN A DUMMY OR PRELOADED EXPERIMENT FIRST UNTIL GPS VALUES ARE BNEING OUTPUT INTO THE CONSOLE/SERIAL MONITOR BEFORE CONDUCTING EXPERIMENTS
+
+*It is recommended that if you are able to use two laptops, to set up a Receiver paired up with a Laptop and a Sender paired up with a Laptop to reduce time waiting and ability to change parameters quickly and simultaneously* 
 
 
 ## Lab Experiments
