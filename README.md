@@ -8,6 +8,9 @@ The software is a LoRa toolkit for creating and recreating experiments with simp
 
 To setup an experimental LoRa parameter configuration to test, edit the `my_library.cpp` file as needed. 
 
+The LoRa Library this module has been based of is: https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
+Please see the API.md for values each variable can take.
+
 ## Lab Set-Up
 
 The following software tools are be required for this lab.
@@ -126,10 +129,7 @@ This is not an error, the ESP has loaded the data and rebooting to run the code 
 
 12. **PLEASE NOTE THE GPS MODULE REQUIRES ~ 5-10 MINUTES TO INITIALISE AFTER CODE HAS BEEN UPLOADED.** Run a dummy or preloaded experiment first until GPS values are being outputted in the console/serial monitor before conducting **YOUR** experiments. The GPS module will also **NOT WORK INDOORS**.
 
-RUN A DUMMY OR PRELOADED EXPERIMENT FIRST UNTIL GPS VALUES ARE BNEING OUTPUT INTO THE CONSOLE/SERIAL MONITOR BEFORE CONDUCTING EXPERIMENTS
-
 *It is recommended that if you are able to use two laptops, to set up a Receiver paired up with a Laptop and a Sender paired up with a Laptop to reduce time waiting and ability to change parameters quickly and simultaneously* 
-
 
 ## Lab Experiments
 

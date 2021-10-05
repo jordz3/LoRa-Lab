@@ -8,7 +8,8 @@ int dly = 2000; // delay for transmission rate (ms)
 /** 
  * Storing of parameters to cycle through
  * NOTE
- * Spreading Factor must remain the same across the experiment and cannot be cycled.
+ * From my testing, Spreading Factor must remain the same across the experiment and cannot be cycled.
+ * Please see https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md for values each parameter can take.
  */
 
 long int bandwidth[] = {500E3, 500E3, 500E3, 500E3};
