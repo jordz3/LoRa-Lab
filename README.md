@@ -116,6 +116,7 @@ C:\Users\<YOUR_USERNAME>\Documents\Arduino\libraries\My_Library
 9. Click the `Compile` button.
 
 10. Repeat "Steps 2 to Steps 6 with `Sender` and `Sender.ino`
+
 *If you are able to use two laptops, it is advised to set up a Receiver paired up with a Laptop and a Sender paired up with a Laptop to reduce time waiting and ability to change parameters quickly and simultaneously* 
 
 
