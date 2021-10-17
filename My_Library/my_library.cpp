@@ -1,7 +1,7 @@
 #include "my_library.h"
 
 String logPrint; // variable to record logging data
-int NUM_PARAMETERS = 9; // number of unique parameters passed
+int NUM_PARAMETERS = 3; // number of unique parameters passed
 int NUM_PACKETS = 50; // number of packets to send
 int dly = 1000; // delay for transmission rate (ms)
 
