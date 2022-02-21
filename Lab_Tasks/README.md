@@ -14,7 +14,7 @@ Before the lab you should review the lecture material and papers on LoRa.
 
 4. Decide on some new application settings for LoRa and choose appropriate parameter requirements and expected path loss for channels in your application. LoRa is a long range technology so consider channels outside in the University campus.  Modify the configuration file for the Arduino code to enable you to test several different LoRa parameter settings. Remember that if you use different Spreading Factors, and a reasonably low data rate, then different groups should not interfere, so you can use the central channel frequency.  Since there are many unknowns about your channels you should investigate a range of parameters. Change the configuration files and run new experiments.
 
-5. Please note variables that can be changed on the fly i.e you can cycle through automatically and those that you can not, as specified in [my_library.cpp](/My_Library/my_library.cpp)
+5. Note which variables that can be changed on the fly i.e you can cycle through automatically and those that you can not, as specified in [my_library.cpp](/My_Library/my_library.cpp)
 
 6. Using the provided Jupyter notebook as a template, write a short lab report on the results of your experiments.  Add comments to the notebook to:
 
@@ -24,5 +24,3 @@ Before the lab you should review the lecture material and papers on LoRa.
     Describe any other things that might have affected your experiment results.
     
 7. When you have completed your lab report, upload your dataset(s) and jupyter notebook(s) to ms-teams area for this lab.  
-
-8. Students are invited to complete a short survey in ms-teams on your experience with this lab.  Your feedback will help us to improve this toolkit.
